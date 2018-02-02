@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/childModuleA/childModuleA.iml" filepath="$PROJECT_DIR$/childModuleA/childModuleA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/childModuleB/childModuleB.iml" filepath="$PROJECT_DIR$/childModuleB/childModuleB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testParentModule.iml" filepath="$PROJECT_DIR$/testParentModule.iml" />
+    </modules>
+  </component>
+</project>
